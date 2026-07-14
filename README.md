@@ -80,7 +80,7 @@ Dataset Columns:
 
 > Add your screenshot here after uploading.
 
-![Power BI Dashboard](scripts/SalesDashboard.png)
+![Power BI Dashboard](screenshots/SalesDashboard.png)
 
 ---
 
